@@ -29,3 +29,5 @@ https://learn.microsoft.com/pt-br/visualstudio/install/create-an-offline-install
 https://learn.microsoft.com/pt-br/visualstudio/install/create-a-network-installation-of-visual-studio
 
 https://learn.microsoft.com/en-us/visualstudio/install/workload-component-id-vs-community?view=visualstudio
+
+https://learn.microsoft.com/en-us/visualstudio/releases/2026/release-notes
